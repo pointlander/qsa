@@ -11,5 +11,5 @@ python3 neurofeedback.py
 ```
 
 ## References
-[Simulated annealing](https://en.wikipedia.org/wiki/Simulated_annealing)
-[Using Simulated Annealing to Factor Numbers](https://arxiv.org/abs/1402.1201)
+* [Simulated annealing](https://en.wikipedia.org/wiki/Simulated_annealing)
+* [Using Simulated Annealing to Factor Numbers](https://arxiv.org/abs/1402.1201)
