@@ -23,7 +23,7 @@ typedef void *swig_voidp;
 
 #include <stdint.h>
 #include <stdlib.h>
-#include "/Users/andrew/projects/labstreaminglayer/LSL/liblsl/include/lsl_c.h"
+#include <lsl_c.h>
 
 #cgo LDFLAGS: -llsl
 
